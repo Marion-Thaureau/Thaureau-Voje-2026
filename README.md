@@ -1,6 +1,6 @@
 # Modeling within-lineage evolution as a consequence of changes in the adaptive landscape across short and long timescales
 
-__Article:__ Unpublished
+__Article:__ Accepted
 
 __Authors:__ Marion Thaureau<sup>1†</sup> and Kjetil Lysne Voje<sup>1</sup>
 
@@ -8,9 +8,9 @@ __Affiliation:__ <sup>1</sup>Evolution and Paleobiology, Natural History Museum,
 
 __Contact:__ <sup>†</sup>marion.thaureau@nhm.uio.no
 
-__Journal:__ NA
+__Journal:__ Evolution
 
-__Year:__ 2024  
+__Year:__ 2026  
 
 __Abstract:__ The adaptive landscape has been suggested as a potential conceptual bridge between phenotypic evolution on generational to macroevolutionary timescales. However, this potential remains largely untapped due to a limited understanding of how the adaptive landscape changes across time. We assessed the dynamics of the adaptive landscape across different time intervals by analyzing phenotypic time series using multivariate models of adaptation. First, we examined whether a decrease in river water flow affected the optimal body mass of a salmon population over a few decades. Second, we explored whether temperature changes affected the optimal size of coccoliths in a species of coccolithophore across about a hundred thousand years in the Cretaceous. Finally, we analyzed the extent to which temperature changes affected the optimal shell size in a lineage of planktic foraminiferas over a few million years during the Miocene. We find evidence that evolution induced by changes in the adaptive landscape, driven by environmental change, occurred in the salmon and foraminifera datasets, but we do not detect a causal link between the investigated paleo‑proxies and size changes in the coccolithophore lineage. We argue that applying the same modeling framework to datasets covering different time spans not only offers a promising way to better connect evolutionary processes across timescales but also enables tests of adaptive hypotheses about within-lineage evolution.
 
